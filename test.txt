@@ -1,0 +1,2 @@
+Hello world! This text should be stored in TXT-file. 
+Its realy Great!
